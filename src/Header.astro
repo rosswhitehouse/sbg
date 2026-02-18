@@ -1,0 +1,33 @@
+---
+function formatToday() {
+  const today = new Date();
+
+  const dayName = new Intl.DateTimeFormat('en-GB', { weekday: 'short' }).format(today);
+  const monthName = new Intl.DateTimeFormat('en-GB', { month: 'long' }).format(today);
+  const day = today.getDate();
+  const year = today.getFullYear();
+
+  function getOrdinal(n) {
+    if (n > 3 && n < 21) return 'th';
+    switch (n % 10) {
+      case 1: return 'st';
+      case 2: return 'nd';
+      case 3: return 'rd';
+      default: return 'th';
+    }
+  }
+
+  return `${dayName} ${day}${getOrdinal(day)} ${monthName} ${year}`;
+}
+
+const dateStr = formatToday()
+---
+<header class="pb-[32px]">
+    <a href="/">
+      <img class="max-w-[640px] mx-auto mt-[80px] mb-[8px]" src="/logo-no-line.png" />
+    </a>
+    <div class="flex justify-between px-[16px] py-[8px] border-b-4">
+        <div>{dateStr}</div>
+        <div class="italic">It's low tide...</div>
+    </div>
+</header>

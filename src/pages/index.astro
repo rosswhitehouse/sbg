@@ -1,17 +1,19 @@
 ---
+import Layout from "../Layout.astro"
+import { getCollection } from "astro:content";
 
+const posts = (await getCollection("posts"))
+  .filter(post => !post.data.draft)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
-
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<Layout>
+    <ul class="max-w-[960px] mx-auto py-[16px]">
+    {posts.map(post => (
+        <li class="py-[64px]">
+            <a href={`/posts/${post.slug}`}>
+                <h2 class="text-[80px] uppercase leading-[96%] hover:underline">{post.data.title}</h2>
+            </a>
+        </li>
+    ))}
+    </ul>
+</Layout>

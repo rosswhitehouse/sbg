@@ -1,5 +1,5 @@
 ---
-title: Strangers make me feel like I'm on fire
+title: Test post
 description: This is my first Astro blog post
 pubDate: 2026-02-17
 ---

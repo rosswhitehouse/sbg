@@ -1,4 +1,5 @@
 ---
+/*
 import { getCollection } from "astro:content";
 import Layout from "../../Layout.astro";
 
@@ -12,16 +13,20 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await post.render();
+*/
+
+import { client } from '../../../tina/__generated__/client;
+const post = await client.queries.post({ filename: Astro.params.slug})
+console.log('post: ', post)
 ---
 
 <Layout>
   <article class="py-[80px]">
     <div class="max-w-[1200px] mx-auto border-b-2">
-      <h1 class="text-[80px] uppercase leading-[96%]">{post.data.title}</h1>
-      <p class="text-right">{post.data.pubDate.toDateString()}</p>
+      <h1 class="text-[80px] uppercase leading-[96%]">{post.title}</h1>
+      <p class="text-right">{post.pubDate.toDateString()}</p>
     </div>
     <div class="max-w-[720px] mx-auto py-[56px]">
-      <Content />
     </div>
   </article>
 </Layout>

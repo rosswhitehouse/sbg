@@ -1,7 +1,7 @@
 ---
-title: Another post right here
 description: This is my first Astro blog post
-pubDate: 2026-02-16
+title: Another post right here
+pubDate: 2026-02-17T00:00:00.000Z
 ---
 
 # Hello world

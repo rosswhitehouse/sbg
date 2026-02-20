@@ -19,15 +19,19 @@ import Layout from "../../Layout.astro";
 import { client } from '../../../tina/__generated__/client'
 import { TinaMarkdown } from 'tinacms/dist/rich-text'
 
+// Create the paths in astro.
 export async function getStaticPaths() {
+  // Get all the data.
   const { data } = await client.queries.postConnection()
 
+  // Return an array of routes with params and props from the data.
   return data.postConnection.edges.map(edge => ({
     params: { slug: edge.node._sys.filename },
     props: { post: edge.node },
   }));
 }
 
+// Get post from props.
 const { post } = Astro.props
 const formattedDate = new Date(post.pubDate).toDateString()
 ---

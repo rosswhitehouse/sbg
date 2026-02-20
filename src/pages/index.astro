@@ -11,12 +11,14 @@ console.log('posts: ', posts);
 ---
 <Layout>
     <ul class="max-w-[960px] mx-auto py-[16px]">
-    {/* posts.map(post => (
+    {posts.map(post => {
+console.log('post: ', post);
+return (
         <li class="py-[64px]">
             <a href={`/posts/${post.slug}`}>
                 <h2 class="text-[80px] uppercase leading-[96%] hover:underline">{post.data.title}</h2>
             </a>
         </li>
-    )) */}
+    )})}
     </ul>
 </Layout>

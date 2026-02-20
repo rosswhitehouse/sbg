@@ -15,29 +15,31 @@ const { post } = Astro.props;
 const { Content } = await post.render();
 */
 
+import Layout from "../../Layout.astro";
 import { client } from '../../../tina/__generated__/client'
+import { TinaMarkdown } from 'tinacms/dist/rich-text'
 
 export async function getStaticPaths() {
   const { data } = await client.queries.postConnection()
-  const posts = data.postConnection.edges.map(edge => edge.node)
-  console.log('posts: ', posts)
 
-  return posts.map(post => ({
-    params: { slug: post._sys.filename },
-    props: { post },
+  return data.postConnection.edges.map(edge => ({
+    params: { slug: edge.node._sys.filename },
+    props: { post: edge.node },
   }));
 }
-const post = await client.queries.post({ filename: Astro.params.slug})
-console.log('post: ', post)
+
+const { post } = Astro.props
+const formattedDate = new Date(post.pubDate).toDateString()
 ---
 
 <Layout>
   <article class="py-[80px]">
     <div class="max-w-[1200px] mx-auto border-b-2">
       <h1 class="text-[80px] uppercase leading-[96%]">{post.title}</h1>
-      <p class="text-right">{post.pubDate.toDateString()}</p>
+      <p class="text-right">{formattedDate}</p>
     </div>
     <div class="max-w-[720px] mx-auto py-[56px]">
+      <TinaMarkdown content={post.body} />
     </div>
   </article>
 </Layout>

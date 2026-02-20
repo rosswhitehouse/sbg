@@ -17,9 +17,11 @@ const { Content } = await post.render();
 
 import { client } from '../../../tina/__generated__/client'
 
-export function getStaticPaths() {
+export async function getStaticPaths() {
   const { data } = await client.queries.postConnection()
   const posts = data.postConnection.edges.map(edge => edge.node)
+  console.log('posts: ', posts)
+
   return posts.map(post => ({
     params: { slug: post.filename },
     props: { post },

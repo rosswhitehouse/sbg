@@ -15,7 +15,16 @@ const { post } = Astro.props;
 const { Content } = await post.render();
 */
 
-import { client } from '../../../tina/__generated__/client';
+import { client } from '../../../tina/__generated__/client'
+
+export function getStaticPaths() {
+  const { data } = await client.queries.postConnection()
+  const posts = data.postConnection.edges.map(edge => edge.node)
+  return posts.map(post => ({
+    params: { slug: post.filename },
+    props: { post },
+  }));
+}
 const post = await client.queries.post({ filename: Astro.params.slug})
 console.log('post: ', post)
 ---

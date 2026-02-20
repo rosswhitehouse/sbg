@@ -1,7 +1,7 @@
 ---
 import Layout from "../Layout.astro"
 import { client } from '../../tina/__generated__/client'
-const { data } = await client.queries.postConnect()
+const { data } = await client.queries.postConnection()
 
 const posts = data.postConnection.edges.map(edge => edge.node)
 

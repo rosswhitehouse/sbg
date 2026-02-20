@@ -23,6 +23,7 @@ import { TinaMarkdown } from 'tinacms/dist/rich-text/astro'
 export async function getStaticPaths() {
   // Get all the data.
   const { data } = await client.queries.postConnection()
+console.log('data', data)
 
   // Return an array of routes with params and props from the data.
   return data.postConnection.edges.map(edge => ({

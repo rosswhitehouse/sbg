@@ -17,6 +17,7 @@ const { Content } = await post.render();
 
 import Layout from "../../Layout.astro";
 import { client } from '../../../tina/__generated__/client'
+import { TinaMarkdown } from "tinacms/dist/rich-text";
 
 // Create the paths in astro.
 export async function getStaticPaths() {
@@ -44,6 +45,7 @@ const formattedDate = new Date(post.pubDate).toDateString()
       <p class="text-right">{formattedDate}</p>
     </div>
     <div class="max-w-[720px] mx-auto py-[56px]">
+      <TinaMarkdown content={post.body} />
     </div>
   </article>
 </Layout>

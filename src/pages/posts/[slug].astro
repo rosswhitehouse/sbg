@@ -15,7 +15,7 @@ const { post } = Astro.props;
 const { Content } = await post.render();
 */
 
-import { client } from '../../../tina/__generated__/client;
+import { client } from '../../../tina/__generated__/client';
 const post = await client.queries.post({ filename: Astro.params.slug})
 console.log('post: ', post)
 ---

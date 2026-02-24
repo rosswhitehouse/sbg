@@ -83,6 +83,12 @@ export default defineConfig({
             name: 'imgPath',
             label: 'Image Path',
             required: true
+          },
+          {
+            type: 'image',
+            name: 'img',
+            label: 'Image',
+            required: true
           }
         ]
       }

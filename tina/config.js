@@ -79,10 +79,10 @@ export default defineConfig({
             isBody: true,
           },
           {
-            type: 'string',
-            name: 'imgPath',
-            label: 'Image Path',
-            required: true
+            type: 'image',
+            name: 'img',
+            label: 'Image',
+            required: true,
           }
         ]
       }

@@ -1,0 +1,25 @@
+---
+import Layout from '../../Layout.astro'
+import { client } from '../../../tina/__generated__/client'
+const { data } = await client.queries.bookConnection()
+
+const books = data.bookConnection.edges?.map(edge => ({ ...edge.node, slug: edge.node._sys.filename }));
+---
+<Layout>
+    <ul>
+    {books?.map(book => {
+      if (book.title) {
+        return (
+          <li class="relative aspect-square overflow-hidden max-w-[400px] group">
+              <a href={`/books/${book.slug}`} class="flex items-center justify-center aspect-square">
+                <img src={book.imgPath} class="transition-all ease-in-out object-cover group-hover:scale-120 absolute h-full" />
+                <div class="transition-all ease-in-out opacity-0 hover:opacity-80 absolute w-full h-full bg-white flex items-center justify-center">
+                    <h2 class="text-[16px] uppercase leading-[96%]">{book.title}</h2>
+                </div>
+              </a>
+          </li>
+        )
+      }
+    })}
+    </ul>
+</Layout>

@@ -54,6 +54,38 @@ export default defineConfig({
           },
         ],
       },
+      {
+        name: 'book',
+        label: 'Books',
+        path: 'content/books',
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+            isTitle: true,
+            required: true,
+          },
+          {
+            type: "datetime",
+            name: "pubDate",
+            label: "Date",
+            required: true,
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+          {
+            type: 'string',
+            name: 'imgPath',
+            label: 'Image Path',
+            required: true
+          }
+        ]
+      }
     ],
   },
 });

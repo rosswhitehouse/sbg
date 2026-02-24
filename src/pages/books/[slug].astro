@@ -6,28 +6,28 @@ import { TinaMarkdown } from "tinacms/dist/rich-text";
 // Create the paths in astro.
 export async function getStaticPaths() {
   // Get all the data.
-  const { data } = await client.queries.postConnection()
+  const { data } = await client.queries.bookConnection()
 
   // Return an array of routes with params and props from the data.
-  return data.postConnection.edges.map(edge => ({
+  return data.bookConnection.edges?.map(edge => ({
     params: { slug: edge.node._sys.filename },
-    props: { post: edge.node },
+    props: { book: edge.node },
   }));
 }
 
 // Get post from props.
-const { post } = Astro.props
-const formattedDate = new Date(post.pubDate).toDateString()
+const { book } = Astro.props
+const formattedDate = new Date(book.pubDate).toDateString()
 ---
 
 <Layout>
   <article class="py-[80px]">
     <div class="max-w-[1200px] mx-auto border-b-2">
-      <h1 class="text-[80px] uppercase leading-[96%]">{post.title}</h1>
+      <h1 class="text-[80px] uppercase leading-[96%]">{book.title}</h1>
       <p class="text-right">{formattedDate}</p>
     </div>
     <div class="max-w-[720px] mx-auto py-[56px]">
-      <TinaMarkdown content={post.body} />
+      <TinaMarkdown content={book.body} />
     </div>
   </article>
 </Layout>

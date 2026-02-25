@@ -1,0 +1,33 @@
+---
+import Layout from "../../Layout.astro";
+import { client } from '../../../tina/__generated__/client'
+import { TinaMarkdown } from "tinacms/dist/rich-text";
+
+// Create the paths in astro.
+export async function getStaticPaths() {
+  // Get all the data.
+  const { data } = await client.queries.poemsConnection()
+
+  // Return an array of routes with params and props from the data.
+  return data.poemsConnection.edges?.map(edge => ({
+    params: { slug: edge.node._sys.filename },
+    props: { poem: edge.node },
+  }));
+}
+
+// Get post from props.
+const { poem } = Astro.props
+const formattedDate = new Date(poem.pubDate).toDateString()
+---
+
+<Layout>
+  <article class="py-[80px] max-w-[720px] mx-auto">
+    <div class="border-b-2">
+      <h1 class="text-[80px] uppercase leading-[96%]">{poem.title}</h1>
+      <p class="text-right">{formattedDate}</p>
+    </div>
+    <div class="py-[56px]">
+      <TinaMarkdown content={poem.body} />
+    </div>
+  </article>
+</Layout>

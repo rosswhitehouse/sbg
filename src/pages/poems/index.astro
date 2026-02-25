@@ -1,0 +1,23 @@
+---
+import Layout from '../../Layout.astro'
+import { client } from '../../../tina/__generated__/client'
+const { data } = await client.queries.poemsConnection()
+
+const poems = data.poemsConnection.edges?.map(edge => ({ ...edge.node, slug: edge.node._sys.filename }));
+console.log("🚀 ~ poems:", poems)
+---
+<Layout>
+    <ul class="max-w-[960px] mx-auto py-[16px]">
+    {poems.map(poem => {
+      if (poem.title) {
+        return (
+          <li class="py-[64px]">
+              <a href={`/poems/${poem.slug}`}>
+                  <h2 class="text-[60px] uppercase leading-[96%] hover:underline">{poem.title}</h2>
+              </a>
+          </li>
+        )
+      }
+    })}
+    </ul>
+</Layout>

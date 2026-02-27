@@ -7,7 +7,6 @@ const { data } = await client.queries.postConnection({
 })
 
 const posts = data.postConnection.edges.map(edge => edge.node)
-console.log("🚀 ~ posts:", posts)
 ---
 <Layout>
     <ul class="max-w-[960px] mx-auto py-[16px]">

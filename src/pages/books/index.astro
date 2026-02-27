@@ -9,7 +9,7 @@ const { data } = await client.queries.bookConnection({
 const books = data.bookConnection.edges?.map(edge => ({ ...edge.node, slug: edge.node._sys.filename }));
 ---
 <Layout>
-    <ul class="grid grid-cols-2 lg:grid-cols-5">
+    <ul class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 xl:grid-cols-6">
     {books?.map(book => {
       if (book.title) {
         return (

@@ -1,18 +1,22 @@
 ---
 import Layout from "../Layout.astro"
 import { client } from '../../tina/__generated__/client'
-const { data } = await client.queries.postConnection()
+const { data } = await client.queries.postConnection({ 
+  sort: 'pubDate',
+  last: 100
+})
 
 const posts = data.postConnection.edges.map(edge => edge.node)
+console.log("🚀 ~ posts:", posts)
 ---
 <Layout>
     <ul class="max-w-[960px] mx-auto py-[16px]">
     {posts.map(post => {
       if (post.title) {
         return (
-          <li class="py-[64px]">
-              <a href={`/posts/${post.slug}`}>
-                  <h2 class="text-[60px] uppercase leading-[96%] hover:underline">{post.title}</h2>
+          <li class="py-[32px] lg:py-[64px]">
+              <a href={`/posts/${post?._sys.filename}`}>
+                  <h2 class="text-[36px] lg:text-[60px] uppercase leading-[96%] hover:underline">{post.title}</h2>
               </a>
           </li>
         )

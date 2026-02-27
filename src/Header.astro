@@ -22,12 +22,19 @@ function formatToday() {
 
 const dateStr = formatToday()
 ---
-<header class="pb-[32px]">
+<header class="pb-[0] lg:pb-[32px]">
     <a href="/">
-      <img class="max-w-[640px] mx-auto mt-[80px] mb-[8px]" src="/logo-no-line.png" />
+      <img class="w-full max-w-[640px] mx-auto mt-[64px] lg:mt-[80px] mb-[32px]" src="/logo-no-line.png" />
     </a>
     <div class="flex justify-between px-[16px] py-[8px] border-b-4">
-        <div>{dateStr}</div>
-        <div class="italic">It's low tide...</div>
+        <div class="flex-1 hidden lg:block">{dateStr}</div>
+        <div class="flex-1">
+          <ul class="flex gap-[16px] justify-between lg:justify-center">
+            <li><a href="/">Latest</a></li>
+            <li><a href="/books">Books</a></li>
+            <li><a href="/poems">Verse</a></li>
+          </ul>
+        </div>
+        <div class="italic flex-1 text-right hidden lg:block">It's low tide...</div>
     </div>
 </header>

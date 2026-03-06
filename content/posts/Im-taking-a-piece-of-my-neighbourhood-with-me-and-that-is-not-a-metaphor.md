@@ -1,6 +1,7 @@
 ---
 title: 'I''m taking a piece of my neighbourhood with me, and that is not a metaphor.'
 pubDate: 2025-07-02T08:31:52.591Z
+draft: false
 ---
 
 A few weeks ago I was walking south on Caroline Street in search of breakfast, nursing what I’ll delicately refer to as a morning head. I noticed one of the street cleaners of the area staring down at the floor some yards ahead. As I approached he took a picture of something on his phone, and it wasn’t until I passed him that I realised he was looking at a hole in the ground between the cobblestones, where once laid one of their number. It flashed upon me in horror that the absentee cobblestone was in fact inside my flat.

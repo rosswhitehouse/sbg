@@ -1,6 +1,7 @@
 ---
 title: Stranger Dinner
 pubDate: 2026-02-10T14:42:37.534Z
+draft: false
 ---
 
 I turned up at a stranger dinner

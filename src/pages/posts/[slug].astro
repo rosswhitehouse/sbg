@@ -23,8 +23,8 @@ const formattedDate = new Date(post.pubDate).toDateString()
 <Layout>
   <article class="py-[80px]">
     <div class="max-w-[1200px] mx-auto border-b-2">
-      <h1 class="text-[80px] uppercase leading-[96%]">{post.title}</h1>
-      <p class="text-right">{formattedDate}</p>
+      <h1 class="uppercase leading-[96%] text-balance text-[clamp(36px,8vw,80px)]">{post.title}</h1>
+      <p class="text-right text-[16px] lg:text-[20px]">{formattedDate}</p>
     </div>
     <div class="max-w-[720px] mx-auto py-[56px]">
       <TinaMarkdown content={post.body} />

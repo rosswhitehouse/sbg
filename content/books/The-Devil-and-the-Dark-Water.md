@@ -2,6 +2,7 @@
 title: The Devil and the Dark Water
 pubDate: 2024-06-27T20:24:32.813Z
 img: /books/The_Devil_and_the_Dark_Water_by_Stuart_Turton.jpg
+draft: false
 ---
 
 “Ghosts are God's problem. The living must deal with me.”

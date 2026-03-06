@@ -23,10 +23,9 @@ const formattedDate = new Date(poem.pubDate).toDateString()
 <Layout>
   <article class="py-[80px] max-w-[720px] mx-auto">
     <div class="border-b-2">
-      <h1 class="text-[80px] uppercase leading-[96%]">{poem.title}</h1>
-      <p class="text-right">{formattedDate}</p>
+      <h1 class="uppercase leading-[96%] text-balance text-[clamp(36px,8vw,80px)]">{poem.title}</h1>
     </div>
-    <div class="py-[56px]">
+    <div class="py-[40px]">
       <TinaMarkdown content={poem.body} />
     </div>
   </article>

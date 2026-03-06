@@ -1,6 +1,7 @@
 ---
 title: Tim Key doesn't do drafts so now I don't either
 pubDate: 2026-01-26T09:25:43.275Z
+draft: false
 ---
 
 I know next-to zero about poetry, except that I like it, and I write it. I have a notebook absolutely heaving with about 6 or so little poems I scribble out when I think of them. I think they’re sort of glib and chuckle-worthy and basically well-intentioned crap.

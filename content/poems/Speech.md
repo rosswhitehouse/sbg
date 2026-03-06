@@ -1,6 +1,7 @@
 ---
 title: Speech
 pubDate: 2025-11-08T09:09:30.255Z
+draft: false
 ---
 
 He thanked his new mother in law again.

@@ -2,6 +2,7 @@
 title: 'The Lion and the Unicorn: Socialism and the English Genius'
 pubDate: 2024-02-13T21:48:31.530Z
 img: /books/9780241315682-jacket-large.webp
+draft: false
 ---
 
 "As I write, highly civilized human beings are flying overhead, trying to kill me."

@@ -1,6 +1,7 @@
 ---
 title: Bandcamp and the anti-AI movement
 pubDate: 2026-01-19T09:26:41.769Z
+draft: false
 ---
 
 I read the other day that Bandcamp is banning AI music from their platform. Regardless of what ‘AI music’ means, I think what we’re seeing is a positive step in ‘pro-human’ media.

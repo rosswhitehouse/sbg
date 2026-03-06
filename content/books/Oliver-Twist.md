@@ -1,7 +1,8 @@
 ---
 title: Oliver Twist
-pubDate: 2025-10-09T23:00:00.000Z
+pubDate: 2026-02-17T00:00:00.000Z
 img: /books/olivertwist.jpg
+draft: false
 ---
 
 Right at the top here, there’s some anti-semitism in this second novel. Dickens has written his regret at the depiction, and there are no slurs (this time!) but Fagin is referred to as “the Jew” more than he’s called by his name, and that alone is othering. He’s treated as less than human, not even deserving to be named. Don’t get me wrong, this is a bad guy. Darker and worse than I had believed, but not because of his ethnicity.

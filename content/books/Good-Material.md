@@ -2,6 +2,7 @@
 title: Good Material
 pubDate: 2024-02-21T21:37:27.138Z
 img: /books/9780241993163-jacket-large.jpg
+draft: false
 ---
 
 “You don’t let go once. That’s your first mistake. You say goodbye over a lifetime. You might not have thought about her for ten years, then you’ll hear a song or you’ll walk past somewhere you once went together - something will come to the surface that you’d totally forgotten about. And you say another goodbye. You have to be prepared to let go and let go and let go a thousand times.”

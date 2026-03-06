@@ -1,6 +1,7 @@
 ---
 title: 'Quite a good one, if I do say so myself'
 pubDate: 2025-08-04T08:30:31.963Z
+draft: false
 ---
 
 Often there are things that wake me in the middle of the night in a cold sweat. Terrible, shameful things that I have said or done, or not said or not done. Friendships lost, relationships ruined, and all for a lack of bravery or humility.

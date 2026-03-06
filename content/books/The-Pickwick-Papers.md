@@ -2,6 +2,7 @@
 title: The Pickwick Papers
 pubDate: 2024-02-11T22:09:47.665Z
 img: /books/229432.jpg
+draft: false
 ---
 
 I’ve struggled with reading as a grown-up. Some suspected neuro-spiciness means my concentration isn't too good. There's a phenomena I'm told is pretty common in which I'd read the same sentence again and again and not really take any of it in. Then I tried audiobooks (including Dickens' A Tale of Two Cities) and found that you can't really listen to the same sentence over and over, because the reader just keeps going. You have to pick up from context. Then I started treating books in the same way. Just keep going, and pick up from context.

@@ -2,6 +2,7 @@
 title: The Hotel Avocado
 pubDate: 2025-07-16T20:05:56.341Z
 img: '/books/61ubozvZGyL._AC_UF894,1000_QL80_.jpg'
+draft: false
 ---
 
 In the sequel to The Satsuma Complex, Bob Mortimer furthers the world of Gary Thorn, his partner Emily and their friends from the last book. This time, Emily is setting up a new life for them in Brighton, and Gary is to give evidence in a trial against Emily’s ex, the antagonist of the first story.

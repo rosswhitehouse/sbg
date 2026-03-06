@@ -2,6 +2,7 @@
 title: White Male Stand-up
 pubDate: 2025-09-26T18:34:04.666Z
 img: '/books/815-fP3yc3L._AC_UF894,1000_QL80_.jpg'
+draft: false
 ---
 
 I took a break from reading Discworld books back-to-back (more on that later), when I heard Alan Davies had a new autobiography out.

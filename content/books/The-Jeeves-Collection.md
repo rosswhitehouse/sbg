@@ -2,6 +2,7 @@
 title: The Jeeves Collection
 pubDate: 2025-02-23T21:12:03.933Z
 img: /books/811cCuar5ZL.jpg
+draft: false
 ---
 
 After realising I hadn't posted in months, I questioned what if anything I'd been reading. Then remembered that over the last six months I've read around 90 short stories and 15 novels from just two authors. This is one of those authors.

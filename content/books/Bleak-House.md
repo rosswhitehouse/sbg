@@ -2,6 +2,7 @@
 title: Bleak House
 pubDate: 2025-08-15T18:43:17.479Z
 img: /books/81V8hDMKSTL.jpg
+draft: false
 ---
 
 The through-line of this story follows the long-standing court case of Jarndyce and Jarndyce, and the family swept up in the litigation. Mr Jarndyce takes guardianship of Esther Summerson, along with Richard Carstone and Ada Clare. Esther is a typical angelic do-no-wrong character which is pretty common for Dickens. Even Esther’s most negative traits are that she criticises herself for doubting or letting people down. Ada and Richard fall in love, but Richard is consumed - as many have been - by chasing the seemingly never-ending legal action in Jarndyce and Jarndyce. His turn to the dark side as he' is consumed by selfishness is one of the best turns in the book.

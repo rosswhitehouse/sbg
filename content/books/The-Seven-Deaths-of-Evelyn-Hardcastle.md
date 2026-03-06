@@ -2,6 +2,7 @@
 title: The Seven Deaths of Evelyn Hardcastle
 pubDate: 2024-09-09T20:23:04.447Z
 img: '/books/71sfPAOJ3QL._AC_UF894,1000_QL80_.jpg'
+draft: false
 ---
 
 I’m pretty late writing about this one - it’s been a summer. But I’ve embarked on something a little bigger and more ambitious I’m excited to write about soon!

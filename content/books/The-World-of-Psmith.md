@@ -2,6 +2,7 @@
 title: The World of Psmith
 pubDate: 2025-09-10T18:38:02.503Z
 img: /books/230531 (1).jpg
+draft: false
 ---
 
 As a long-time fan of Wodehouse who’d never dipped out of the Jeeves series, it was for the good that I picked up the Psmith omnibus, the first of which was written nearly a decade before Jeeves’ first published appearance.

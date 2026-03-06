@@ -2,6 +2,7 @@
 title: 'I Love You, Byeee'
 pubDate: 2025-07-28T18:45:46.502Z
 img: /books/81XfWn3Qp4L.jpg
+draft: false
 ---
 
 Adam Buxton’s first memoir largely focussed on his childhood. Through the lens of both then and now, he explored school, music, parents and his relationship to those things when he was young, and now that he’s matured with children of his own. In this second book he covers his career on television and radio, sprinkled with the usual Argument with Wife Log and some fond memories of his younger years.

@@ -2,6 +2,7 @@
 title: Sherlock Holmes
 pubDate: 2025-02-25T21:10:30.145Z
 img: '/books/81QEIexXeYL._UF1000,1000_QL80_.jpg'
+draft: false
 ---
 
 As you’ll be able to tell from my last post, I’ve read a lot of Conan Doyle recently. In a word, these books are spectacular. I’m sure you don’t need my review on that, they’re classics for a reason. Mostly written from the point of view of Holmes’ best friend Watson, the mysteries are great and engrossing, and towards the end of the series the books even explore a softer side of Holmes, who demonstrates care for his friend more clearly.

@@ -1,6 +1,7 @@
 ---
 title: The Dating Season
 pubDate: 2025-09-25T08:28:43.941Z
+draft: false
 ---
 
 A friend of mine just asked me for some advice on pictures for a dating app. I gave him what little knowledge I have and thought to write about it here.

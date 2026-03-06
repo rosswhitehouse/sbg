@@ -2,6 +2,7 @@
 title: Technofeudalism
 pubDate: 2025-10-14T18:28:11.039Z
 img: /books/9781529926095-jacket-large (1).jpg
+draft: false
 ---
 
 I’m typically not one for socio-political economics books really. Put me in front of Dickens or Christie and I am a content man. But I heard this fellow Yanis Varoufakis on a podcast and found the way he spoke about our current state of post-capitalism fascinating. He spoke about his book - Technofeudalism - and some of the interesting ideas therein and I was hooked.

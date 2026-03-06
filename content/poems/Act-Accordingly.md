@@ -1,6 +1,7 @@
 ---
 title: Act Accordingly
 pubDate: 2026-02-10T14:41:28.610Z
+draft: false
 ---
 
 He/him/she/her 

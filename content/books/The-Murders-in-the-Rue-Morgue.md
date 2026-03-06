@@ -2,6 +2,7 @@
 title: The Murders in the Rue Morgue
 pubDate: 2025-07-18T19:59:24.999Z
 img: /books/81MCldHmMVL (1).jpg
+draft: false
 ---
 
 When I was reading about the various Dickens books out there to see the sort of thing available, I came across some article talking about Bleak House as an early example of detective fiction. After finishing Sherlock Holmes and a few other more modern crime fiction books, I thought I would likely enjoy Dicken’s style which I already appreciate turned to this genre. However, I got there and found it to be such a mighty tome that I can hardly lift the thing. I googled this claim of early detective work, and found one other book in the running (which by the bye was published a decade or so before Bleak House): The Murders in the Rue Morgue by Edgar Allan Poe. I new Poe mainly from The Raven. More specifically, from the Simpsons Treehouse of Horror version of The Raven. But, since I was in for gothic detectiving, and it’s a mercifully short book, I picked it up.

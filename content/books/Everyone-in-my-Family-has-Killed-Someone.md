@@ -2,6 +2,7 @@
 title: Everyone in my Family has Killed Someone
 pubDate: 2024-06-24T20:32:15.231Z
 img: '/books/81drOOSnblL._AC_UF894,1000_QL80_.jpg'
+draft: false
 ---
 
 “I promised to be reliable, not competent”

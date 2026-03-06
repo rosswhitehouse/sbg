@@ -2,6 +2,7 @@
 title: Waiting for Godot
 pubDate: 2024-02-22T21:35:54.183Z
 img: /books/MV5BZjNlNzEzMjMtZDY5NS00MWQxLTkwMjktYTY4NWMzMGUxNDg3XkEyXkFqcGc@._V1_.jpg
+draft: false
 ---
 
 “We always find something, eh Didi, to give us the impression we exist?”

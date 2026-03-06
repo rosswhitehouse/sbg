@@ -2,6 +2,7 @@
 title: Three Men in a Boat
 pubDate: 2025-08-22T18:42:00.877Z
 img: /books/9780099511700-jacket-large.jpg
+draft: false
 ---
 
 Just before we get into this book, it’s important for me to note that I got halfway through the sequel, Three Men on the Brummel, and had to put it down due to an offensive depiction of a black character. As a rule I often frown at books of this time with slurs and less-enlightened attitudes to people of colour, women or queer people, and can accept that as the ignorance of the time and move on, but this is a rare example of one that was unfortunately too egregious for me. I should also note that the first book contains no such content.

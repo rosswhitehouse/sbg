@@ -2,6 +2,7 @@
 title: Girls will be Girls
 pubDate: 2025-08-05T18:36:12.484Z
 img: '/books/41myqpupq-L._AC_UF894,1000_QL80_.jpg'
+draft: false
 ---
 
 I found myself in my late-twenties - and now in my very very late-twenties at thirty-one - increasingly interested in Gender Theory. My partner, a scholar, advocate, and radical feminist, has been key in expanding my learning in the area, and when we began our co-habitation, brought with them a shelf-worth of books with arresting covers named ‘RAPE’, ‘Sexual Violence’ and of course ‘Feminism’. I asked them to recommend me one - perhaps a lighter one than these textbook tomes. They recommended Girls will be Girls - and it is spectacular.

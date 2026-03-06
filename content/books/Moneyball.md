@@ -2,6 +2,7 @@
 title: Moneyball
 pubDate: 2024-02-12T22:08:11.999Z
 img: /books/Moneyballsbn.jpg
+draft: false
 ---
 
 I read Moneyball on a flight to Philadelphia. I nearly finished it in one go. Until this book I thought "couldn't put it down" was just a thing pretentious people said.

@@ -15,7 +15,7 @@ const posts = data.postConnection.edges.map(edge => edge.node)
         return (
           <li class="py-[32px] lg:py-[64px]">
               <a href={`/posts/${post?._sys.filename}`}>
-                  <h2 class="text-[36px] lg:text-[60px] uppercase leading-[96%] hover:underline">{post.title}</h2>
+                  <h2 class="uppercase leading-[96%] hover:underline text-[clamp(36px,8vw,56px)]">{post.title}</h2>
               </a>
           </li>
         )

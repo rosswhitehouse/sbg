@@ -1,6 +1,7 @@
 ---
 title: Cobblestone
 pubDate: 2025-11-09T09:09:54.773Z
+draft: false
 ---
 
 There’s a patch of new tarmac in the cobbled streets of north Birmingham.

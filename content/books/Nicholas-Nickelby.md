@@ -2,6 +2,7 @@
 title: Nicholas Nickelby
 pubDate: 2025-12-09T15:24:57.106Z
 img: /books/325085.jpg
+draft: false
 ---
 
 When I talk about bands I like I find myself saying almost exclusively “I like their earlier stuff”, it seems the same is true of Charles Dickens.

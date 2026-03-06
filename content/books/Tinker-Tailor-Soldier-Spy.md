@@ -2,6 +2,7 @@
 title: 'Tinker, Tailor, Soldier, Spy'
 pubDate: 2024-02-18T21:42:13.371Z
 img: /books/71DNRE6LZfL.jpg
+draft: false
 ---
 
 When I say “Spy Thriller” it conjures an image of James Bond, Jason Bourne, Kim Possible. Bombastic, action-packed and cool. Le Carre’s George Smiley is the antithesis of all of this. Tinker Tailor is quiet and thoughtful and gripping.

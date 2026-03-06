@@ -2,6 +2,7 @@
 title: Why Can’t I Just Enjoy Things?
 pubDate: 2025-04-09T20:07:16.775Z
 img: /books/9781785121029.jpg
+draft: false
 ---
 
 I was surprised to see myself often reflected in Pierre’s book, which is a chronicle of his autism diagnosis, and an explanation of the many facets of the condition. It’s worth saying that I am not a diagnosed autistic. My partner is, and I’ve taken a few of the tests online. We often identify many of the symptoms in my behaviours.

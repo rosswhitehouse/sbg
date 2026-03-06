@@ -2,6 +2,7 @@
 title: 'Yardsticks For Failure: Adventures in Friendship and Fluster'
 pubDate: 2025-08-01T18:44:18.917Z
 img: /books/71vU2Nj1GWL (1).jpg
+draft: false
 ---
 
 I’ve had a lot of changes to my hangover habits over the years. There were the Hot Fuzz years of my youth, Dazed and Confused when I discovered wine, and the Lord of the Rings now that I usually seek out a big cry.

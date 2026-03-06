@@ -1,6 +1,7 @@
 ---
 title: Sadlympics
 pubDate: 2026-02-18T14:40:52.401Z
+draft: false
 ---
 
 We were talking about who had the most trauma.

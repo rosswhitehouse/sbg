@@ -1,6 +1,7 @@
 ---
 title: I'm reading three books at once and there's nothing you can do to stop me
 pubDate: 2025-07-16T08:31:05.082Z
+draft: false
 ---
 
 Reading has not always come as easy to me as it does today. When I was at school I enjoyed the English Literature lessons, we read A Christmas Carol and Of Mice and Men, and I collaborated on a few scripts for school plays: one a Christmas Pantomime, one a Fairytale Cinderella-type affair and to my great shame a poorly-bastardised version of A Midsummer Night’s Dream. I was not what you would call into reading then. Our English teacher Mrs Murray made it no easier with ham-American accents for John Steinbeck.

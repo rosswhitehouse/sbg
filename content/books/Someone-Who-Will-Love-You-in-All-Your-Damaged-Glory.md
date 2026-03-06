@@ -2,6 +2,7 @@
 title: Someone Who Will Love You in All Your Damaged Glory
 pubDate: 2024-02-16T21:45:41.337Z
 img: /books/9780525432722.webp
+draft: false
 ---
 
 From the creator of Bojack Horseman comes a series of funny, sad and sweet tales about love. They go from grounded poetry to fantastical short stories about crazy wedding traditions and in-love superheroes. They aren’t all perfect, but the collection is terrific.

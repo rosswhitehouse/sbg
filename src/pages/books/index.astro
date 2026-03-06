@@ -16,8 +16,8 @@ const books = data.bookConnection.edges?.map(edge => ({ ...edge.node, slug: edge
           <li class="relative overflow-hidden group">
               <a href={`/books/${book.slug}`} class="flex items-center justify-center h-full w-full">
                 <img src={book.img} class="transition-all ease-in-out object-cover group-hover:scale-120 min-h-full" />
-                <div class="transition-all ease-in-out opacity-0 hover:opacity-80 absolute w-full h-full bg-white flex items-center justify-center">
-                    <h2 class="text-[16px] uppercase leading-[96%]">{book.title}</h2>
+                <div class="transition-all ease-in-out opacity-0 hover:opacity-90 absolute w-full h-full bg-white flex items-center justify-center p-2 text-center text-balance">
+                    <h2 class="text-[20px] uppercase leading-[96%] hyphens-auto">{book.title}</h2>
                 </div>
               </a>
           </li>

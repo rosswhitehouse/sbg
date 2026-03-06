@@ -2,6 +2,7 @@
 title: The Unfinished Harauld Hughes
 pubDate: 2025-03-10T21:08:30.029Z
 img: /books/91MXEaPRZAL.jpg
+draft: false
 ---
 
 I used to listen to a lot more audiobooks, I would walk my dog listening to them. Unfortunately they have been supplanted by the podcast. I listen to about 25 new podcasts per week while working and after work while I play video games, but only in times when the video games don’t have engaging dialog.

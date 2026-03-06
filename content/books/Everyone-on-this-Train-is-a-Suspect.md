@@ -2,6 +2,7 @@
 title: Everyone on this Train is a Suspect
 pubDate: 2024-06-23T20:30:00.389Z
 img: /books/9781405954808.jpg
+draft: false
 ---
 
 “It’s not the writing that tells the story, it’s the reading.”

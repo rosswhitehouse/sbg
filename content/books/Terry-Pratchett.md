@@ -2,6 +2,7 @@
 title: Terry Pratchett
 pubDate: 2025-10-06T18:30:05.208Z
 img: /books/Frame 113 (2).png
+draft: false
 ---
 
 I’ve been a Terry Pratchett fan since my teens, though I haven’t read the whole of the Discworld oeuvre, I am getting through them slowly on Audible. These three audiobooks are terrifically read by Colin Morgan, Indira Varma, and Jon Culshaw, with footnotes read by Bill Nighy and Peter Serafinowicz as the voice of death. They're really terrific productions.

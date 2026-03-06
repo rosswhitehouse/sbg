@@ -2,6 +2,7 @@
 title: The Great Gatsby
 pubDate: 2025-08-24T18:40:01.074Z
 img: /books/91yg5rniqwL.jpg
+draft: false
 ---
 
 The thing I like about the Great Gatsby, is that you imagine it’s a glitzy and glamorous romp through the roaring 20’s, but as you get into the story, it’s dark and lonely and depressed. And that is what it’s saying about America. Pretty astute stuff, I’m sure you’ll agree.

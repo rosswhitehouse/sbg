@@ -2,6 +2,7 @@
 title: A Blink of the Screen
 pubDate: 2025-10-25T08:27:40.369Z
 img: /books/312af384-560d-41c9-918d-113abde33105_1497x2328.webp
+draft: false
 ---
 
 This is a collection of short stories from the late-great Discworld author Terry Pratchett, whose work I have always loved. Herein are some high- and low-concept sci-fi stories that are guaranteed to be entertaining and tasty for Pratchett fans.

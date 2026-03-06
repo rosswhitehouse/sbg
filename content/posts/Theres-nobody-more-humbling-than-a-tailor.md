@@ -1,6 +1,7 @@
 ---
 title: There's nobody more humbling than a tailor
 pubDate: 2025-09-02T08:29:41.552Z
+draft: false
 ---
 
 There are a couple of events in the social calendar up-and-coming for one RDW. As I write I sit two weeks away from the wedding of a friend in Bristol. Fortunately, or unfortunately depending on your point of view, I’m not close enough of a friend to make up any part of the bridal party. As such, I get to become a spectator, free of responsibility, and even freer of libation. There is no prescription for my outfit - except that it be wedding-appropriate, and I’m choosing to wear a double-breasted sage-green corduroy piece that I first wore to a wedding a couple of years ago, back in the slender, if tumultuous, chaos days.

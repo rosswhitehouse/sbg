@@ -2,6 +2,7 @@
 title: A Room of One's Own
 pubDate: 2026-01-27T09:29:12.831Z
 img: /books/18521.jpg
+draft: false
 ---
 
 I had heard, of course, that this Virginia Woolf essay was a classic piece of important feminism, and was excited to read it. Halfway through part 1, however, I thought I might not make it much further. I found it to be meandering and dense, and Woolf took a long time about explaining walking a path in a university.

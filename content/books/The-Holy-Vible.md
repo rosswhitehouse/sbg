@@ -2,6 +2,7 @@
 title: The Holy Vible
 pubDate: 2025-07-18T19:58:40.139Z
 img: '/books/61MSbZLpELL._UF894,1000_QL80_.jpg'
+draft: false
 ---
 
 I first started listening to Elis and John’s Radio 5 show about a year ago, a magazine show where Elis and John create funny segments and features and it quickly became my favourite weekly podcast. A few times in the podcast I’d hear them mention the Vible - a book published some seven years ago, so on a long flight I decided to pick it up on Audible, and sat through it in almost one sitting.

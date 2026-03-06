@@ -2,6 +2,7 @@
 title: Before the Coffee gets Cold
 pubDate: 2024-06-24T20:28:51.055Z
 img: '/books/71kW0ESYl5L._AC_UF894,1000_QL80_.jpg'
+draft: false
 ---
 
 When a friend of mine recommended Before the Coffee Gets Cold - the story of a café with a secret time-travel seat - I was expecting an About Time-style romcom where ultimately the protagonist learns that it’s really about appreciating the time you have.

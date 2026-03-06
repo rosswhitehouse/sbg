@@ -2,6 +2,7 @@
 title: Strange Weather in Tokyo
 pubDate: 2024-06-22T20:31:11.869Z
 img: /books/images.jpeg
+draft: false
 ---
 
 “Regret is a heavy burden, but forgiveness can set us free.”

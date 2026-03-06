@@ -2,6 +2,7 @@
 title: The Last Murder at the End of the World
 pubDate: 2024-06-26T20:25:46.209Z
 img: '/books/9890ac3a-45b0-4944-999c-5e9ebf685c2c.__CR0,0,150,300_PT0_SX150_V1___.jpg'
+draft: false
 ---
 
 “I was created knowing exactly what I was for and I’ve sought to offer the villagers the same gift. Purpose is something which must be given, or it will be endlessly sought.”

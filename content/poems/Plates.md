@@ -1,6 +1,7 @@
 ---
 title: Plates
 pubDate: 2026-02-10T14:42:56.899Z
+draft: false
 ---
 
 "Do you want one plate or two?"

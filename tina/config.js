@@ -52,6 +52,13 @@ export default defineConfig({
             label: "Body",
             isBody: true,
           },
+          {
+            name: 'draft',
+            label: 'Draft',
+            type: 'boolean',
+            required: true,
+            description: 'If this is checked the post will not be published',
+          },
         ],
       },
       {
@@ -83,7 +90,14 @@ export default defineConfig({
             name: 'img',
             label: 'Image',
             required: true,
-          }
+          },
+          {
+            name: 'draft',
+            label: 'Draft',
+            type: 'boolean',
+            required: true,
+            description: 'If this is checked the post will not be published',
+          },
         ]
       },
       {
@@ -109,7 +123,14 @@ export default defineConfig({
             name: "pubDate",
             label: "Date",
             required: true,
-          }
+          },
+          {
+            name: 'draft',
+            label: 'Draft',
+            type: 'boolean',
+            required: true,
+            description: 'If this is checked the post will not be published',
+          },
         ]
       }
     ],

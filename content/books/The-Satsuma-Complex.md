@@ -2,6 +2,7 @@
 title: The Satsuma Complex
 pubDate: 2024-02-15T21:46:33.257Z
 img: /books/9781398521230.webp
+draft: false
 ---
 
 I’m not huge on hardback books, nor modern crime fiction - I didn’t get far in Richard Osman’s book - but I adored Bob Mortimer’s Autobiography and now his crime novel too.

@@ -1,6 +1,6 @@
 ---
 title: The World of Psmith
-pubDate: 2025-09-11T18:38:02.503Z
+pubDate: 2025-09-10T18:38:02.503Z
 img: /books/230531 (1).jpg
 ---
 

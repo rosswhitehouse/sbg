@@ -3,7 +3,8 @@ import Layout from '../../Layout.astro'
 import { client } from '../../../tina/__generated__/client'
 const { data } = await client.queries.bookConnection({ 
   sort: 'pubDate',
-  last: 100
+  last: 100,
+  filter: { draft: { eq: false } }
 })
 
 const books = data.bookConnection.edges?.map(edge => ({ ...edge.node, slug: edge.node._sys.filename }));

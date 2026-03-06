@@ -1,6 +1,6 @@
 ---
 title: Nicholas Nickelby
-pubDate: 2026-02-03T15:24:57.106Z
+pubDate: 2026-02-07T15:24:57.106Z
 img: /books/325085.jpg
 ---
 

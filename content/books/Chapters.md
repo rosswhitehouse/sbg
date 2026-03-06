@@ -1,6 +1,6 @@
 ---
 title: Chapters
-pubDate: 2025-12-12T15:42:07.022Z
+pubDate: 2025-12-06T15:42:07.022Z
 img: /books/9781916222687.webp
 ---
 

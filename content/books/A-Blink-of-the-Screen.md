@@ -1,6 +1,6 @@
 ---
 title: A Blink of the Screen
-pubDate: 2026-02-06T09:27:40.369Z
+pubDate: 2025-10-25T08:27:40.369Z
 img: /books/312af384-560d-41c9-918d-113abde33105_1497x2328.webp
 ---
 

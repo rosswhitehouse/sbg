@@ -1,6 +1,6 @@
 ---
 title: Technofeudalism
-pubDate: 2026-02-03T19:28:11.039Z
+pubDate: 2025-10-14T18:28:11.039Z
 img: /books/9781529926095-jacket-large (1).jpg
 ---
 

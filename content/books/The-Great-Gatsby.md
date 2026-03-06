@@ -1,6 +1,6 @@
 ---
 title: The Great Gatsby
-pubDate: 2025-08-25T18:40:01.074Z
+pubDate: 2025-08-24T18:40:01.074Z
 img: /books/91yg5rniqwL.jpg
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Terry Pratchett
-pubDate: 2026-01-02T19:30:05.208Z
+pubDate: 2025-10-06T18:30:05.208Z
 img: /books/Frame 113 (2).png
 ---
 

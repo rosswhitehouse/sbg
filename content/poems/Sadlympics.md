@@ -3,9 +3,7 @@ title: Sadlympics
 pubDate: 2026-02-18T14:40:52.401Z
 ---
 
-We were talking about
-
-who had the most trauma.
+We were talking about who had the most trauma.
 
 So we started a competition.
 

@@ -1,6 +1,6 @@
 ---
 title: Oliver Twist
-pubDate: 2026-02-17T00:00:00.000Z
+pubDate: 2025-10-07T23:00:00.000Z
 img: /books/olivertwist.jpg
 draft: false
 ---

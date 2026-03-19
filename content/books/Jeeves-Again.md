@@ -2,6 +2,7 @@
 title: Jeeves Again
 pubDate: 2026-01-06T09:44:01.555Z
 img: /books/9781529154214-jacket-large.jpg
+draft: false
 ---
 
 Despite an encompassing despisement of hard-back books, I just couldn’t wait to read these twelve new stories of Wodehouse’s Jeeves books by such lofty and prestigious writers, in the only medium possible.

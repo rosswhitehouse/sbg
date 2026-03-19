@@ -2,6 +2,7 @@
 title: Excellent Women
 pubDate: 2025-12-12T09:20:53.007Z
 img: '/books/81OfaNSpx6L._AC_UF894,1000_QL80_.jpg'
+draft: false
 ---
 
 In looking to read more women writers, Excellent Women was recommended to me as a funny and charming story that won't take all that much time. It wasn't love at first sight, the first couple of chapters weren't hard going but didn't capture me, but by the end I found it a breezy and endearing book that I really enjoyed for what it is.

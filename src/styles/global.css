@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+@theme {
+  --color-paper: #f9f9f9;
+}
+
 body {
   font-family: "Sanchez", serif;
   font-weight: 400;

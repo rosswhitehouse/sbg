@@ -1,6 +1,7 @@
 ---
 title: Edinburgh
 pubDate: 2026-03-20T17:04:41.902Z
+draft: false
 ---
 
 Christmas day in Edinburgh.

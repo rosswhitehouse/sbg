@@ -127,6 +127,7 @@ export default defineConfig({
             label: 'Draft',
             type: 'boolean',
             description: 'If this is checked the post will not be published',
+            required: true,
           },
         ]
       }

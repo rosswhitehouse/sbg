@@ -1,6 +1,7 @@
 ---
 title: Fashion
 pubDate: 2026-03-20T16:57:17.034Z
+draft: false
 ---
 
 Take a big shirt. Like real big.

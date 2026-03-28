@@ -1,6 +1,7 @@
 ---
 title: Thirsty
 pubDate: 2026-03-20T17:02:37.954Z
+draft: false
 ---
 
 No free water on the plane.

@@ -1,6 +1,7 @@
 ---
 title: Black country car
 pubDate: 2026-03-20T17:01:08.041Z
+draft: false
 ---
 
 Says there's a bomb in his car.

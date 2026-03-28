@@ -12,7 +12,7 @@ const { data } = await client.queries.poemsConnection({
 const poems = data.poemsConnection.edges?.map(edge => ({ ...edge.node, slug: edge.node._sys.filename }));
 ---
 <Layout>
-    <ul class="py-[16px] grid grid-cols-1 lg:grid-cols-2 gap-[1.6rem]">
+    <ul class="py-[16px] grid grid-cols-1 lg:grid-cols-2 2xl:grid-cols-3 gap-[1.6rem]">
     {poems.map(poem => {
       let formattedDate = new Date(poem.pubDate).toDateString()
       if (poem.title) {
@@ -22,10 +22,7 @@ const poems = data.poemsConnection.edges?.map(edge => ({ ...edge.node, slug: edg
             <TinaMarkdown content={poem.body} />
             <div class="mt-auto text-gray-500 pt-[1.6rem]">
               <div class="flex justify-between border-gray-400 mt-[1.6] pt-[1.2rem] border-t">
-                <div class="">{formattedDate}</div>
-
-              
-                <div class="copyLink cursor-pointer center" data-slug={poem.slug}>Copy URL</div>
+                <div class="copyLink cursor-pointer center ml-auto" data-slug={poem.slug}>Copy URL</div>
               </div>
             </div>
           </li>

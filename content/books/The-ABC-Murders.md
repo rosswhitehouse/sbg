@@ -2,6 +2,7 @@
 title: The ABC Murders
 pubDate: 2026-04-11T09:55:31.637Z
 img: /books/9780007527533.webp
+draft: false
 ---
 
 I jumped a little further down the list of Poirot books as this one came well-recommended, and I must say it was terrific. If Death on the Nile is the definitive exotic murder case, the “this is what a Poirot book is” book, then ABC is a great bending of the format.

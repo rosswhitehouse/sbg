@@ -2,7 +2,7 @@
 title: Super Nintendo
 pubDate: 2026-03-22T13:44:49.778Z
 img: /books/Super-Nintendo-1-530x815.jpg
-draft: true
+draft: false
 ---
 
 I've heard Keza MacDonald on podcasts before and know her to be well-informed video game writer and fan, and I've had her Dark Souls book “You Died” on my list for a long time. I just heard her on The Back Page Podcast talking about this new book about the world's most popular video game company, and sought it out immediately.

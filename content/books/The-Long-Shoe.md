@@ -2,7 +2,7 @@
 title: The Long Shoe
 pubDate: 2026-03-29T09:48:57.636Z
 img: /books/the-long-shoe-9781398548046_xlg.jpg
-draft: true
+draft: false
 ---
 
 After the second of Mortimer's books I was considering skipping this entry. They're witty and charming, but also repetitive. Once you see the ‘trick’ to the charming and silly dialogue, it's hard to un-see it.

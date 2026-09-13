@@ -1,5 +1,5 @@
 ---
-title: Getting Back to the Routine.
+title: Getting Back to the Routine
 pubDate: 2026-09-10T09:26:41.769Z
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: Barnaby Rudge
 pubDate: 2026-09-10T09:18:48.192Z
 img: '/books/barnaby_rudge.jpg'
-draft: false
+draft: true
 ---
 
 It's been a while now since I got into a Dickens novel - and a at least a couple of books since I really loved one. I tried with The Old Curiosity Shop and the same with Hard Times, but really one hasn't set my heart alight since Nicholas Nickelby - which I liked so much I gifted my copy as a present.

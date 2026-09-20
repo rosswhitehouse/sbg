@@ -16,6 +16,6 @@ Lesson 2: To live is to suffer.
 
 Lesson 3: Is it really all Thatcher's fault? (Yes).
 
-She read it back, and sighed.
+She read it back over, and sighed.
 
 There's a chance the break-up might have gotten to her a little bit.
